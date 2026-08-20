@@ -75,7 +75,7 @@ icedeg-2026-bso/
 ```
 
 **Full paper:** Available via IEEE Xplore *(DOI to be added upon publication)*
-**Conference presentation:** [Watch on Google Drive](https://drive.google.com/file/d/14ELC-kZ-GU23zr7twbXMhzIak_66P51l/view?usp=drive_link)
+**Conference presentation:** [Watch on Google Drive](https://drive.google.com/file/d/1gcc8gTsb4G2Ym8fWECLVvd9Vae_I8_kz/view?usp=drive_link)
 
 ---
 
