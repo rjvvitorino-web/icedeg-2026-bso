@@ -70,15 +70,12 @@ icedeg-2026-bso/
 │
 ├── README.md                       ← This file
 │
-├── architecture/
-│   └── Fig1_Pipeline.png           ← Semantic transformation pipeline diagram
-│
-└── presentation/
-    └── ICEDEG2026_slides.pdf       ← Conference presentation slides
+└── architecture/
+    └── Fig1_Pipeline.png           ← Semantic transformation pipeline diagram
 ```
 
 **Full paper:** Available via IEEE Xplore *(DOI to be added upon publication)*
-**Presentation recording:** [Watch on Google Drive](https://drive.google.com/file/d/14ELC-kZ-GU23zr7twbXMhzIak_66P51l/view?usp=drive_link)
+**Conference presentation:** [Watch on Google Drive](https://drive.google.com/file/d/14ELC-kZ-GU23zr7twbXMhzIak_66P51l/view?usp=drive_link)
 
 ---
 
